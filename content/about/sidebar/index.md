@@ -1,20 +1,14 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Yangmeng (Mona) Xu"
-role: "Doctoral Student"
+role: "Ph.D. Student"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Reproductive & sexual health
-  url: https://www.sistersong.net/reproductive-justice/
-- name: Social determinants of health
-  url: https://www.cdc.gov/socialdeterminants/about.html
-- name: Data science & data ethics
-  url: https://datafeminism.io/
-- name: R education & data literacy
-  url: https://venngage.com/blog/data-literacy/#4
+- name: Educational Measurement and Assessment
+- name: Quantitative Research Method
 ---
 
 ** index doesn't contain a body, just front matter above.

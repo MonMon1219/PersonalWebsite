@@ -8,10 +8,6 @@ show_intro: true
 intro: |
   I have been enjoying using R and R Markdown to do data analysis and fulfill my TA role for professors. 
   
-
-show_outro: true
-outro: |
-  <i class="fas fa-lightbulb pr2"></i>Biomedical engineer turned informaticist,<br>curious about all intersections of data and society.
 ---
 
 ** index doesn't contain a body, just front matter above.

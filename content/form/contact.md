@@ -1,14 +1,13 @@
 ---
 title: Send me a note
 name: Contact Form
-description: "You can use this form to contact me about speaking engagements, collaborations, or simply to say hello.<br><br>I also love hearing if my educational materials have been helpful for you, and how they could be improved &#8212; particularly if they could be made more accessible &#9825;"
+description: "You can use this form to contact me about speaking engagements, collaborations, or simply to say hello.<br><br>"
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
 type: form
 layout: split-right # split-right or split-left
 submit_button_label: Send Message
-show_social_links: true # specify social accounts in site config
 show_poweredby_formspree: true
 # From the Integration tab in Formspree where it says Your form's endpoint is:
 # https://formspree.io/f/abcdefgh The id will be "abcdefgh"" 

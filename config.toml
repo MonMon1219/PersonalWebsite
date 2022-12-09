@@ -1,9 +1,9 @@
-baseURL = "https://silvia.rbind.io/"
+baseURL = "https://yxu.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 #title = "Hugo Apéro"
-title = "Silvia Canelón"
-author = "Silvia Canelón"
+title = "Yangmeng Xu"
+author = "Yangmeng Xu"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -34,10 +34,10 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
 #pygmentsCodeFences = true  # enable GitHub style code snippets
 
 [params]
-  orgName = "Silvia Canelón"
+  orgName = "Yangmeng Xu"
   orgLocal = ""
   #description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  description = "Personal website of Silvia Canelón"
+  description = "Personal website of Yangmeng Xu"
   #favicon = "/img/favicon.ico"
   favicon = "/img/logo_rounded.ico"
   #logo = "/img/blogophonic-mark-dark.png"
@@ -95,35 +95,20 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   # Icon pack "ai" includes academic icons, see: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-      icon      = "universal-access" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/accessibility/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/spcanelon"
+  
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/spcanelon/silvia"
-  #[[params.social]]
-  #    icon      = "facebook-square" # icon name without the 'fa-'
-  #    icon_pack = "fab"
-  #    url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      url       = "https://github.com/MonMon1219"
   #[[params.social]]
   #    icon      = "instagram" # icon name without the 'fa-'
   #    icon_pack = "fab"
-  #    url       = "https://www.instagram.com/explore/tags/apero/"
+  #    url       = "https://www.instagram.com/xu_and_bl/"
 
-  #[[params.social]]
-  #    icon      = "impactstory" # icon name without the 'fa-'
-  #    icon_pack = "ai"
-  #    url       = "https://impactstory.org/u/0000-0002-8082-1890"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://orcid.org/0000-0003-1709-1394"
+      url       = "https://orcid.org/0000-0003-0685-9249"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
@@ -131,7 +116,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://linkedin.com/in/spcanelon"
+      url       = "linkedin.com/in/yangmengxu1219/"
 #  [[params.social]]
 #      icon      = "rss" # icon name without the 'fa-'
 #      icon_pack = "fas"
@@ -150,13 +135,8 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Meeting People Where They R"
-    url = "/blog/"
-    weight = 2
-  [[menu.header]]
-    name = "Talks"
-    title = "Invited Talks"
+    name = "CV"
+    title = "CV"
     url = "/talk/"
     weight = 3
   [[menu.header]]
@@ -217,14 +197,3 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   [privacy.instagram]
     disable = false
     simple = true
-  [privacy.twitter]
-    disable = false
-    enableDNT = true
-    simple = false
-  [privacy.vimeo]
-    disable = false
-    enableDNT = true
-    simple = true
-  [privacy.youtube]
-    disable = false
-    privacyEnhanced = true
