@@ -42,7 +42,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   favicon = "/img/logo_rounded.ico"
   #logo = "/img/blogophonic-mark-dark.png"
   logo = "/img/logo_noBg.svg"
-  mainSections = ["blog", "talk", "publication", "project"]
+  mainSections = ["about","CV", "publications", "projects"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -51,9 +51,8 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   #sharing_image = "/img/papillons.jpg"
-  sharing_image = "/img/LakePink_Social.png"
-  # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "spcanelon"
+  sharing_image = "/img/londoneye.jpg"
+  
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -110,18 +109,10 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0003-0685-9249"
   [[params.social]]
-      icon      = "google-scholar" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://scholar.google.com/citations?user=GAzkvpcAAAAJ&hl=en&oi=ao"
-  [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "linkedin.com/in/yangmengxu1219/"
-#  [[params.social]]
-#      icon      = "rss" # icon name without the 'fa-'
-#      icon_pack = "fas"
-#      url       = "/blog/index.xml"
-
+      url       = "https://www.linkedin.com/in/yangmengxu1219"
+  
 [taxonomies]
   category = "categories"
   series = "series"
@@ -131,60 +122,25 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Me"
+    title = "About"
     url = "/about/"
     weight = 1
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/talk/"
+    url = "https://drive.google.com/file/d/1x4RHPZEAU6vePkfVPvwPsdkgVQRiusF7/view?usp=share_link"
     weight = 3
   [[menu.header]]
     name = "Publications"
-    title = "Research Publications"
+    title = "Publications"
     url = "/publication/"
     weight = 4
  [[menu.header]]
    name = "Projects"
-   title = "Project Portfolio"
+   title = "Projects"
    url = "/project/"
    weight = 5
-  #[[menu.header]]
-  #  name = "A collection"
-  #  title = "A collection"
-  #  url = "/collection/"
-  #  weight = 6
-  #[[menu.header]]
-  #  name = "Elements"
-  #  title = "Element Page"
-  #  url = "/elements/"
-  #  weight = 7
-  # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License Details"
-    url = "/license/"
-    weight = 3
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact Form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
-    name = "Accessibility"
-    title = "Accessibility Commitment"
-    url = "/accessibility/"
-    weight = 1
-  [[menu.footer]]
-    name = "RSS"
-    title = "Subscribe via RSS"
-    url = "/blog/index.xml/"
-    weight = 5
-  #[[menu.footer]]
-  #  name = "Contributors"
-  #  title = "Contributors"
-  #  url = "/contributors/"
-  #  weight = 3
+ 
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
