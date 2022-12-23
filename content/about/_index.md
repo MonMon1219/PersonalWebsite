@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  Personal website for Yangmeng (Mona) Xu
+  Personal website for Yangmeng Xu
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.

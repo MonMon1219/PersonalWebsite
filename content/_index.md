@@ -1,18 +1,18 @@
 ---
-title: "Yangmeng (Mona) Xu"
-subtitle: Ph.D. student in Educational Research at the University of Alabama
-description: I am a doctoral student who is interested in Educational Measurement
-  and Assessment, and Quantitative Research Methods.
-images: img/Lake_Pink_lowExp_wide.jpg
-image_alt_text: Photo of a lake with water reflecting a bright blue sky and nestled
-  among lush trees
-image_left: no
-text_align_left: no
-show_social_links: yes
-show_action_link: yes
+title: "Yangmeng (Mona) Xu, Ph.D student"
+subtitle: "Graduate assistant at the College of Education, University of Alabama"
+description: "I am a doctoral student who is interested in Educational Measurement and Assessment and Quantitative Research Methods."
+sharing_image: "/img/londoneye.jpg"
+images:
+  - img/londoneye.jpg
+image_alt_text: "Abstract data visualization depicting tall buildings in Philadelphia as a circle. The text inside the circle reads Philadelphia Skyline"
+image_left: false
+text_align_left: false
+show_social_links: true # specify social accounts in site config
+show_action_link: true
 action_link: /about
-action_label: Learn more about me &rarr;
-action_type: text
+action_label: "Learn more about me &rarr;"
+action_type: text # text, button
 type: home
 ---
 
