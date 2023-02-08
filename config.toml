@@ -128,7 +128,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "https://drive.google.com/file/d/1x4RHPZEAU6vePkfVPvwPsdkgVQRiusF7/view?usp=share_link"
+    url = "https://drive.google.com/file/d/1rpLV_2vPhn_YwwuaLWgl19J1BXMB2f-t/view?usp=sharing"
     weight = 3
   [[menu.header]]
     name = "Publications"
