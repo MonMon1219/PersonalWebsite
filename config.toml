@@ -42,7 +42,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   favicon = "/img/logo_rounded.ico"
   #logo = "/img/blogophonic-mark-dark.png"
   logo = "/img/logo_noBg.svg"
-  mainSections = ["about","CV", "publications", "projects"]
+  mainSections = ["About","CV", "Publications", "Projects"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -128,7 +128,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "https://drive.google.com/file/d/1rpLV_2vPhn_YwwuaLWgl19J1BXMB2f-t/view?usp=sharing"
+    url = "https://drive.google.com/file/d/16TDCd0QsDpRkSN3SjUvtftD2fOTnlkuW/view?usp=sharing"
     weight = 3
   [[menu.header]]
     name = "Publications"
