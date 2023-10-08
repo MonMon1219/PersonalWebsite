@@ -8,8 +8,8 @@ audio_link_label: "" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Educational measurement
-- name: Bayesian statistics
-- name: Item Response Theory
+- name: Rasch Measurement Theory
+- name: Rater Effects
 
 ---
 
